@@ -8,7 +8,7 @@
 
 More about me: 
 - :school: I'm a Computer Science student at [@Tiradentes University](https://www.unit.br/en/undergraduate) 
-- 🔭 I’m currently working at [@Cencosud S.A.]
+- 🔭 I’m currently working at [@Cencosud S.A.](https://www.cencosud.com/)
 - 🌱 I’m currently learning NodeJs | Typescript | Python | PostgreSQL | SQL | MongoDB | API | ReactJs and any more!
 - 👯 I’m looking to collaborate on Fullstack  projects.
 - 📫 How to reach me: [My personal e-mail](mailto:alisson.wiin@gmail.com)
