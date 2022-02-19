@@ -14,11 +14,6 @@ More about me:
 - 📫 How to reach me: [My personal e-mail](mailto:alisson.wiin@gmail.com)
 
 <details>
-  <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=AlissonSantos17&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117">
-</details>
-
-<details>
   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonSantos17&layout=compact&bg_color=0D1117&text_color=ffffff">
 </details>
