@@ -8,7 +8,7 @@
 
 More about me: 
 - :school: I'm a Computer Science student at [@Tiradentes University](https://www.unit.br/en/undergraduate) 
-- 🔭 I’m currently working at [@Capgemini](https://www.capgemini.com/br-pt/)
+- 🔭 I’m currently working at [@IBM](https://www.ibm.com)
 - 🌱 I’m currently learning NodeJs | Typescript | Python | Java | API | ReactJs and any more!
 - 👯 I’m looking to collaborate on Fullstack  projects.
 - 📫 How to reach me: [My personal e-mail](mailto:alisson.wiin@gmail.com)
