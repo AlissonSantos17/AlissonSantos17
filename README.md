@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissonfelipelsantos/)](https://www.linkedin.com/in/alissonfelipelsantos/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_alissx/?hl=pt-br)](https://www.instagram.com/_alissx/?hl=pt-br)
-[![Followers](https://img.shields.io/github/followers/natanascimento?style=social&link=https://github.com/AlissonSantos17)](https://github.com/AlissonSantos17)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_alissx/?hl=pt-br)](https://www.instagram.com/alissonfelp00/?hl=pt-br)
+[![Followers](https://img.shields.io/github/followers/AlissonSantos17?style=social&link=https://github.com/AlissonSantos17)](https://github.com/AlissonSantos17)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/AlissonSantos17)](https://github.com/AlissonSantos17)
 
 
