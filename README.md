@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Alisson Felipe 👋</h1>
 <p align="center">
   <strong>Backend Developer | Cloud Enthusiast | Clean Code Advocate</strong><br/>
@@ -28,18 +29,39 @@ Databases    | PostgreSQL · MySQL · MongoDB · DynamoDB
 DevOps/Cloud | AWS (Lambda, SQS, S3...) · IBM Cloud · Docker · CI/CD · Jenkins  
 Architecture | Clean · Hexagonal · MVC  
 Testing/Tools| Jest · Mocha · Swagger · OpenTelemetry
+```
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlissonSantos17&show_icons=true&theme=transparent" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonSantos17&layout=compact&theme=transparent" height="150"/> </p>
+---
 
-<details> <summary>✨ More about me</summary>
-🧑‍🎓 CS student at Tiradentes University
+### 📈 GitHub Stats & Languages
 
-🌍 Based in Brazil
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlissonSantos17&show_icons=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonSantos17&layout=compact&theme=transparent" height="150"/>
+</p>
 
-📬 Let’s collaborate on cool fullstack projects
+---
 
-🎵 I like ambient, electronic, and atmospheric music (big fan of RÜFÜS DU SOL & Keinemusik)
+<details>
+  <summary>✨ More about me</summary>
+  
+- 🧑‍🎓 CS student at [Tiradentes University](https://www.unit.br/en/undergraduate)  
+- 🌍 Based in Brazil  
+- 📬 Let’s collaborate on cool fullstack projects  
+- 🎵 I like ambient, electronic, and atmospheric music (big fan of RÜFÜS DU SOL & Keinemusik)
 
 </details>
 
-<p align="center"> <a href="https://www.linkedin.com/in/alissonfelipelsantos/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://instagram.com/_alissx"> <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://github.com/AlissonSantos17"> <img src="https://img.shields.io/github/followers/AlissonSantos17?style=social"/> </a> </p> ```
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alissonfelipelsantos/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/_alissx">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AlissonSantos17">
+    <img src="https://img.shields.io/github/followers/AlissonSantos17?style=social"/>
+  </a>
+</p>
