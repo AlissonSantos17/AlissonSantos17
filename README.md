@@ -45,7 +45,7 @@ Testing/Tools| Jest · Mocha · Swagger · OpenTelemetry
 <details>
   <summary>✨ More about me</summary>
   
-- 🧑‍🎓 CS student at [Tiradentes University](https://www.unit.br/en/undergraduate)  
+- 🧑‍🎓 Bachelor in Computer Science at [Tiradentes University]([https://www.unit.br/en/undergraduate](https://www.unit.br/ciencia-da-computacao))  
 - 🌍 Based in Brazil  
 - 📬 Let’s collaborate on cool fullstack projects  
 - 🎵 I like ambient, electronic, and atmospheric music (big fan of RÜFÜS DU SOL & Keinemusik)
