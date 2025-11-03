@@ -11,7 +11,7 @@
 
 ### 🚀 About me
 
-I'm a passionate **Software Developer** from Brazil, currently working at **IBM**.  
+I'm a passionate **Software Developer** from Brazil.  
 I love designing **scalable and efficient systems** using modern tools and clean architectures.
 
 - 🧠 Always learning: Node.js, TypeScript, Java, Python, Go
