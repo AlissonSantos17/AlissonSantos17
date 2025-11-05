@@ -42,18 +42,6 @@ Testing/Tools| Jest · Mocha · Swagger · OpenTelemetry
 
 ---
 
-<details>
-  <summary>✨ More about me</summary>
-  
-- 🧑‍🎓 Bachelor in Computer Science at [Tiradentes University]([https://www.unit.br/en/undergraduate](https://www.unit.br/ciencia-da-computacao))  
-- 🌍 Based in Brazil  
-- 📬 Let’s collaborate on cool fullstack projects  
-- 🎵 I like ambient, electronic, and atmospheric music (big fan of RÜFÜS DU SOL & Keinemusik)
-
-</details>
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/alissonfelipelsantos/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
