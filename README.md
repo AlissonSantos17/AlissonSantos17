@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Alisson Felipe 👋</h1>
 <p align="center">
-  <strong>Backend Developer | Cloud Enthusiast | Clean Code Advocate</strong><br/>
+  <strong>Backend Developer</strong><br/>
   <a href="mailto:alisson.wiin@gmail.com">📩 alisson.wiin@gmail.com</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/alissonfelipelsantos/">💼 LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://github.com/AlissonSantos17">💻 GitHub</a>
