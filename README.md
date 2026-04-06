@@ -33,19 +33,10 @@ Testing/Tools| Jest · Mocha · Swagger · OpenTelemetry
 
 ---
 
-###💻📈 My Roadmap
+📈 My Roadmap
 
 <p align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/683f67e51e1dbfe14cf46b43?variant=dark" alt="roadmap.sh"/></a>
-</p>
-
----
-
-### 📈 GitHub Stats & Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlissonSantos17&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonSantos17&layout=compact&theme=transparent" height="150"/>
 </p>
 
 ---
